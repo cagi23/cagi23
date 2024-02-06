@@ -32,6 +32,7 @@ I'm a software developer, specializing in building full stack application.
 - ♾️ &nbsp;Devops:&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker&logoColor=blue)
 - ☁ &nbsp;Cloud:&nbsp;
+  ![Google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   
   
 <h3 align="left">Connect with me:</h3>
