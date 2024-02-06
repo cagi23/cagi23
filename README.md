@@ -28,7 +28,7 @@ I'm a software developer, specializing in building full stack application.
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
   ![Sublime Text](https://img.shields.io/badge/-Sublime-0A1A2F?style=flat&logo=sublime-text&logoColor=orange)
 - 🖥 &nbsp;Sofwtware Architectures:&nbsp;
-  
+  ![Sublime Text](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 - ♾️ &nbsp;Devops:&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker&logoColor=blue)
   
