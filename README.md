@@ -39,7 +39,6 @@ I'm a software developer, specializing in building full stack application.
 <p style="margin-left: 2rem;">
   <span height="30" width="40"></span>
 <a href="https://www.linkedin.com/in/carlo-giordano-5a94045/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="carlo giordano" height="20" width="30" /></a>
-<a href="https://stackoverflow.com/users/7686708/aashir-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/7686708/aashir-khan" height="30" width="40" /></a>
 </p>
 
 <br/>
