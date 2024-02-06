@@ -7,8 +7,6 @@ I'm a software developer, specializing in building full stack application.
 - 📜 &nbsp;Language:&nbsp;
   ![Javascript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=Javascript&logoColor=yellow)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-- 📱 &nbsp;Mobile:&nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
 - 🗄 &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
   ![ExpressJS](https://img.shields.io/badge/-ExpressJS-0A1A2F?style=flat&logo=express&logoColor=blue)
