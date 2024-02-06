@@ -25,7 +25,7 @@ I'm a software developer, specializing in building full stack application.
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-bitbucket-0A1A2F?style=flat&logo=bitbucket)
 - 🔧 &nbsp;IDE's:&nbsp;
-  ![Eclipse]([https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white))
+  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
   ![Sublime Text](https://img.shields.io/badge/-Sublime-0A1A2F?style=flat&logo=sublime-text&logoColor=orange)
 - 🖥 &nbsp;Sofwtware Architectures:&nbsp;
   
