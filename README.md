@@ -31,6 +31,7 @@ I'm a software developer, specializing in building full stack application.
   ![Sublime Text](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 - ♾️ &nbsp;Devops:&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker&logoColor=blue)
+- ☁ &nbsp;Cloud:&nbsp;
   
   
 <h3 align="left">Connect with me:</h3>
