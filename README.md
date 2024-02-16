@@ -31,7 +31,11 @@ I'm a software developer, specializing in building full stack application.
   ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker&logoColor=blue)
 - ☁ &nbsp;Cloud:&nbsp;
   ![Google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  
+  <br/>
+  <h3 align="left">I'm currently building:</h3>
+<p style="margin-left: 2rem;">
+  <span height="30" width="40"></span>
+</p>
   
 <h3 align="left">Connect with me:</h3>
 <p style="margin-left: 2rem;">
